@@ -1,0 +1,41 @@
+Results of doctest builder run on 2022-09-27 00:07:42
+=====================================================
+
+Document: Heap
+--------------
+1 items passed all tests:
+  45 tests in default
+45 tests in 1 items.
+45 passed and 0 failed.
+Test passed.
+
+Document: BST
+-------------
+1 items passed all tests:
+  19 tests in default
+19 tests in 1 items.
+19 passed and 0 failed.
+Test passed.
+
+Document: DSA
+-------------
+1 items passed all tests:
+  58 tests in default
+58 tests in 1 items.
+58 passed and 0 failed.
+Test passed.
+
+Document: Trie
+--------------
+1 items passed all tests:
+  24 tests in default
+24 tests in 1 items.
+24 passed and 0 failed.
+Test passed.
+
+Doctest summary
+===============
+  146 tests
+    0 failures in tests
+    0 failures in setup code
+    0 failures in cleanup code
